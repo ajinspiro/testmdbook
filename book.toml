@@ -1,0 +1,7 @@
+[book]
+title = "Implementing an interpreter using C#"
+authors = ["AJ Arun Kumar", "Shan John"]
+language = "en"
+
+[output.html]
+additional-css = ["theme/cover.css"]
